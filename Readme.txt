@@ -1,1 +1,1 @@
-view the live preview here https://reacts-store.netlify.app/
+view the live preview here https://letsmeetup.netlify.app/create
